@@ -19,6 +19,23 @@ Clicking on <b><i>CUSTOMER REVIEW</i></b> displays a graph based on the reviews 
 
 Below are the layouts of the above mentioned - 
 ## Screenshots
-
-
-
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/landing%20page.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/check-in-1.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/check-in-2.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/check-in-3.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/room-1.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/room-2.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/room-3.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/room-4.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/room-5.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/booking-1.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/booking-2.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/booking-3.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/bookng-4.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/booking-5.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/check-out-1.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/check-out-2.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/check-out-3.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/check-out-4.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/check-out-5.png" width="320" height="320"/>&nbsp;
+<img src="https://github.com/aditiixx/Resort-management-system-using-Tkinter/blob/main/gui_images/review-1.png" width="320" height="320"/>&nbsp;
